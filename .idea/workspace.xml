@@ -28,24 +28,14 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="RomanNumeral.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="RomanNumeral.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="89">
-                  <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+                <state relative-caret-position="329">
+                  <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-                  <folding />
                 </state>
               </provider>
             </entry>
@@ -57,7 +47,7 @@
           <file leaf-file-name="RomanNumeralTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="824">
+                <state relative-caret-position="734">
                   <caret line="77" column="66" lean-forward="false" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
                   <folding />
                 </state>
@@ -360,8 +350,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/TurkeyMap.java" />
         <option value="$PROJECT_DIR$/src/test/java/RomanNumeralTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RomanNumeral.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/RomanNumeral.java" />
       </list>
     </option>
   </component>
@@ -531,7 +521,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RomanNumeralTest.ultimateTest">
+  <component name="RunManager" selected="JUnit.RomanNumeralTest">
     <configuration default="false" name="RomanNumeralTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="RomanNumeral_test" />
@@ -1004,8 +994,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.ultimateTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.ultimateTest" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGiven1" />
       </list>
@@ -1021,7 +1011,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499970473638</updated>
-      <workItem from="1499970476606" duration="3700000" />
+      <workItem from="1499970476606" duration="3878000" />
     </task>
     <servers />
   </component>
@@ -1044,8 +1034,8 @@
     <history-entry file="RomanNumeralTest - 2017.07.13 at 15h 22m 05s.xml">
       <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest_romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI - 2017.07.13 at 15h 11m 32s.xml">
-      <configuration name="RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest - 2017.07.13 at 15h 32m 15s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RomanNumeralTest_romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI - 2017.07.13 at 15h 16m 25s.xml">
       <configuration name="RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI" configurationId="JUnit" />
@@ -1058,7 +1048,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3700000" />
+    <option name="totallyTimeSpent" value="3878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-640" width="2560" height="1440" extended-state="6" />
@@ -1137,29 +1127,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="824">
-          <caret line="77" column="66" lean-forward="false" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="734">
+          <caret line="77" column="66" lean-forward="false" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

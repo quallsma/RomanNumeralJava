@@ -58,16 +58,14 @@ public class RomanNumeral {
     }
 
     private int getKeyFromValue(String character){
-        int key = 0;
         Set s = romanNumerals.entrySet();
         Iterator it = s.iterator();
         while(it.hasNext()){
             Map.Entry entry = (Map.Entry)it.next();
             if(character.equalsIgnoreCase((String)entry.getValue())){
-                key = (int) entry.getKey();
-                break;
+                return (int) entry.getKey();
             }
         }
-        return key;
+        return 0;
     }
 }
