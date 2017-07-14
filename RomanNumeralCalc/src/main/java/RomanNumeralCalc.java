@@ -1,17 +1,16 @@
-import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
 
 /**
- * Created by marsalisqualls on 7/13/17.
+ * Created by marsalisqualls on 7/12/17.
  */
-public class RomanNumeral {
+public class RomanNumeralCalc {
 
     private Map<Integer, String> romanNumerals;
 
-    public RomanNumeral(){
+    public RomanNumeralCalc(){
         romanNumerals = new LinkedHashMap<>();
 
         romanNumerals.put(1000, "M");
@@ -29,24 +28,15 @@ public class RomanNumeral {
         romanNumerals.put(1, "I");
     }
 
-    public String convertToRoman(int decimalNumber) {
-        String romanNumber = "";
-
-        for(Integer key : romanNumerals.keySet()){
-            while(decimalNumber >= key){
-                romanNumber += romanNumerals.get(key);
-                decimalNumber -= key;
-            }
-        }
-
-        return romanNumber;
+    public String add(String leftVal, String rightVal) {
+        return convertToRomanNumeral(convertToArabic(leftVal) + convertToArabic(rightVal));
     }
 
-    public int ConvertToArabic(String romanNumber){
+    private int convertToArabic(String romanNumeral) {
         int arabic = 0, previousNumber = 0, currentNumber = 0;
 
-        for(int x = 0; x < romanNumber.length(); x++){
-            String character = Character.toString(romanNumber.charAt(x));
+        for(int x = 0; x < romanNumeral.length(); x++){
+            String character = Character.toString(romanNumeral.charAt(x));
             currentNumber = getKeyFromValue(character);
             if(currentNumber > previousNumber && previousNumber > 0)
                 arabic -= 2 * previousNumber;
@@ -55,6 +45,19 @@ public class RomanNumeral {
         }
 
         return arabic;
+    }
+
+    private String convertToRomanNumeral(int value) {
+        String romanNumber = "";
+
+        for(Integer key : romanNumerals.keySet()){
+            while(value >= key){
+                romanNumber += romanNumerals.get(key);
+                value -= key;
+            }
+        }
+
+        return romanNumber;
     }
 
     private int getKeyFromValue(String character){

@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcfabff7-f0e4-4583-b5ce-668acc48b015" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/RomanNumeral.java" afterPath="$PROJECT_DIR$/src/main/java/RomanNumeral.java" />
-    </list>
+    <list default="true" id="f834b9b4-85db-486a-b326-dff26707bc56" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +29,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="RomanNumeral.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
+          <file leaf-file-name="RomanNumeralCalc.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeralCalc.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="525">
-                  <caret line="35" column="40" lean-forward="false" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+                <state relative-caret-position="360">
+                  <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -48,22 +45,14 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="RomanNumeralTest.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
+          <file leaf-file-name="RomanNumeralCalcTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralCalcTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="839">
-                  <caret line="77" column="66" lean-forward="false" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/.gitignore">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-                  <folding />
+                <state relative-caret-position="615">
+                  <caret line="47" column="69" lean-forward="false" selection-start-line="47" selection-start-column="69" selection-end-line="47" selection-end-column="69" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -78,9 +67,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -98,14 +84,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="RomanNumeral" />
+              <option name="name" value="RomanNumeralCalc" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="RomanNumeral" />
+                <option name="name" value="RomanNumeralCalc" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -119,7 +105,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'RomanNumeral'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'RomanNumeralCalc'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -129,7 +115,7 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'RomanNumeral'." />
+                <option name="description" value="Displays the sub-projects of root project 'RomanNumeralCalc'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -139,12 +125,12 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'RomanNumeral'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'RomanNumeralCalc'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'RomanNumeral'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'RomanNumeralCalc'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -169,7 +155,7 @@
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'RomanNumeral'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'RomanNumeralCalc'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -179,7 +165,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'RomanNumeral'." />
+                <option name="description" value="Displays the tasks runnable from root project 'RomanNumeralCalc'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -199,7 +185,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'RomanNumeral'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'RomanNumeralCalc'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -224,7 +210,7 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'RomanNumeral'." />
+                <option name="description" value="Displays all dependencies declared in root project 'RomanNumeralCalc'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -249,7 +235,7 @@
                 <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'RomanNumeral'." />
+                <option name="description" value="Displays the properties of root project 'RomanNumeralCalc'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -260,7 +246,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4499866690000" />
+        <entry key="$PROJECT_DIR$" value="4499638625000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -279,7 +265,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="RomanNumeral" />
+              <option name="name" value="RomanNumeralCalc" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-3.3-bin/64bhckfm0iuu9gap9hg3r7ev2/gradle-3.3/lib/ant-1.9.6.jar" />
@@ -367,10 +353,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/TurkeyMap.java" />
-        <option value="$PROJECT_DIR$/src/test/java/RomanNumeralTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/RomanNumeral.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/RomanNumeralCalc.java" />
+        <option value="$PROJECT_DIR$/src/test/java/RomanNumeralCalcTest.java" />
       </list>
     </option>
   </component>
@@ -386,8 +370,160 @@
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Accessibility</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Haml</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>J2ME SupportJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -400,48 +536,15 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RomanNumeral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RomanNumeralJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RomanNumeral" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RomanNumeralJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RomanNumeralCalc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RunDashboard">
@@ -456,14 +559,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RomanNumeralTest">
-    <configuration default="false" name="RomanNumeralTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_ultimateTest">
+    <configuration default="false" name="RomanNumeralCalcTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="RomanNumeral_test" />
+      <module name="RomanNumeralCalc_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RomanNumeralTest" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralCalcTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -478,14 +581,14 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGiven1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RomanNumeralCalcTest.romanNumeralCalc_AddOnePlusOneEqualsTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="RomanNumeral_test" />
+      <module name="RomanNumeralCalc_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RomanNumeralTest" />
-      <option name="METHOD_NAME" value="romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGiven1" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralCalcTest" />
+      <option name="METHOD_NAME" value="romanNumeralCalc_AddOnePlusOneEqualsTwo" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -499,14 +602,14 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_AddFivePlusFiveEqualsTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="RomanNumeral_test" />
+      <module name="RomanNumeralCalc_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RomanNumeralTest" />
-      <option name="METHOD_NAME" value="romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralCalcTest" />
+      <option name="METHOD_NAME" value="romanNumeralCalc_CommutativityOfAddition_AddFivePlusFiveEqualsTen" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -520,14 +623,35 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="RomanNumeralTest.ultimateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_AddFivePlusFourEqualsNine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="RomanNumeral_test" />
+      <module name="RomanNumeralCalc_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RomanNumeralTest" />
-      <option name="METHOD_NAME" value="ultimateTest" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralCalcTest" />
+      <option name="METHOD_NAME" value="romanNumeralCalc_CommutativityOfAddition_AddFivePlusFourEqualsNine" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_ultimateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="RomanNumeralCalc_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralCalcTest" />
+      <option name="METHOD_NAME" value="romanNumeralCalc_CommutativityOfAddition_ultimateTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -848,7 +972,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="RomanNumeral" />
+      <module name="RomanNumeralCalc" />
       <envs />
       <method />
     </configuration>
@@ -928,18 +1052,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGiven1" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.ultimateTest" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralCalcTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralCalcTest.romanNumeralCalc_AddOnePlusOneEqualsTwo" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_AddFivePlusFiveEqualsTen" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_AddFivePlusFourEqualsNine" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_ultimateTest" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.ultimateTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGiven1" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_ultimateTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_AddFivePlusFourEqualsNine" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_AddFivePlusFiveEqualsTen" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralCalcTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.RomanNumeralCalcTest.romanNumeralCalc_AddOnePlusOneEqualsTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -948,56 +1074,55 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fcfabff7-f0e4-4583-b5ce-668acc48b015" name="Default" comment="" />
-      <created>1499970473638</created>
+      <changelist id="f834b9b4-85db-486a-b326-dff26707bc56" name="Default" comment="" />
+      <created>1499879537572</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1499970473638</updated>
-      <workItem from="1499970476606" duration="4104000" />
-      <workItem from="1499974682377" duration="741000" />
-      <workItem from="1500036596884" duration="1993000" />
-      <workItem from="1500043320944" duration="646000" />
-      <workItem from="1500044014117" duration="163000" />
+      <updated>1499879537572</updated>
+      <workItem from="1499879539943" duration="6375000" />
+      <workItem from="1500036595825" duration="2108000" />
+      <workItem from="1500043320380" duration="613000" />
+      <workItem from="1500044013264" duration="43000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralTest - 2017.07.13 at 15h 12m 16s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    <history-entry file="RomanNumeralCalcTest - 2017.07.12 at 13h 54m 51s.xml">
+      <configuration name="RomanNumeralCalcTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest - 2017.07.13 at 15h 13m 25s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    <history-entry file="RomanNumeralCalcTest - 2017.07.12 at 14h 17m 26s.xml">
+      <configuration name="RomanNumeralCalcTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest - 2017.07.13 at 15h 16m 48s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    <history-entry file="RomanNumeralCalcTest - 2017.07.13 at 10h 13m 32s.xml">
+      <configuration name="RomanNumeralCalcTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest - 2017.07.13 at 15h 19m 44s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    <history-entry file="RomanNumeralCalcTest - 2017.07.14 at 10h 19m 29s.xml">
+      <configuration name="RomanNumeralCalcTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest - 2017.07.13 at 15h 20m 28s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    <history-entry file="RomanNumeralCalcTest_romanNumeralCalc_AddFivePlusOneEqualsSix - 2017.07.12 at 13h 35m 27s.xml">
+      <configuration name="RomanNumeralCalcTest.romanNumeralCalc_AddFivePlusOneEqualsSix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest - 2017.07.13 at 15h 22m 05s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    <history-entry file="RomanNumeralCalcTest_romanNumeralCalc_AddOnePlusFiveEqualsSix - 2017.07.12 at 13h 34m 33s.xml">
+      <configuration name="RomanNumeralCalcTest.romanNumeralCalc_AddOnePlusFiveEqualsSix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest - 2017.07.13 at 15h 32m 15s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    <history-entry file="RomanNumeralCalcTest_romanNumeralCalc_CommutativityOfAddition_AddFivePlusFiveEqualsTen - 2017.07.14 at 10h 21m 07s.xml">
+      <configuration name="RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_AddFivePlusFiveEqualsTen" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest_romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI - 2017.07.13 at 15h 16m 25s.xml">
-      <configuration name="RomanNumeralTest.romanNumeral_ConvertToArabic_ConvertToArabicMethodShouldReturn1_WhenGivenI" configurationId="JUnit" />
+    <history-entry file="RomanNumeralCalcTest_romanNumeralCalc_CommutativityOfAddition_AddFivePlusFourEqualsNine - 2017.07.14 at 10h 22m 02s.xml">
+      <configuration name="RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_AddFivePlusFourEqualsNine" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest_ultimateTest - 2017.07.13 at 15h 24m 21s.xml">
-      <configuration name="RomanNumeralTest.ultimateTest" configurationId="JUnit" />
+    <history-entry file="RomanNumeralCalcTest_romanNumeralCalc_CommutativityOfAddition_AddFivePlusOneEqualsSix - 2017.07.12 at 13h 37m 18s.xml">
+      <configuration name="RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_AddFivePlusOneEqualsSix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest_ultimateTest - 2017.07.13 at 15h 26m 13s.xml">
-      <configuration name="RomanNumeralTest.ultimateTest" configurationId="JUnit" />
+    <history-entry file="RomanNumeralCalcTest_romanNumeralCalc_CommutativityOfAddition_ultimateTest - 2017.07.14 at 10h 32m 53s.xml">
+      <configuration name="RomanNumeralCalcTest.romanNumeralCalc_CommutativityOfAddition_ultimateTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7647000" />
+    <option name="totallyTimeSpent" value="9139000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="-640" width="2560" height="1440" extended-state="6" />
+    <frame x="1280" y="-640" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1006,15 +1131,15 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25972995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1027,9 +1152,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1039,9 +1164,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="6" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1049,81 +1172,63 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeralCalc.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        <state relative-caret-position="360">
+          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralCalcTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeralCalc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeralCalc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeralCalc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralCalcTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
-          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <caret line="47" column="69" lean-forward="false" selection-start-line="47" selection-start-column="69" selection-end-line="47" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SortOnKey.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/TurkeyMap.java" />
-    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/classes/main/RomanNumeral.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="839">
-          <caret line="77" column="66" lean-forward="false" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="40" lean-forward="false" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
